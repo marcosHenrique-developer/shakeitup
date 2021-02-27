@@ -12,6 +12,6 @@
 <p>Projeto criado usando ReactJS e NextJS</p>
 <p>Style modules usado para o css</p>
 <p>Feito com muito carinho, em uma semana insana</p>
-<p>Imagens do Projeto</p>
+<p>Imagens do Projeto a seguir:</p>
 <hr>
 <img src='./Pagina do projeto.png' alt='Home da Aplicação'>
